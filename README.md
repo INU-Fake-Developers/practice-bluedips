@@ -1,2 +1,2 @@
-# practice-bluedips
+# p-bluedips
 강용석
