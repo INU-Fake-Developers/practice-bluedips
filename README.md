@@ -1,6 +1,6 @@
 # p-bluedips
 
-### 안녕하세요  
+## 안녕하세요  
 ## 반가워요  
 ##<details>
 <summary>자세히 / 간단히</summary>
