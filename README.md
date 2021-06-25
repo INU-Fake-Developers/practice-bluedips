@@ -1,7 +1,7 @@
 # <sub>b</sup>l<sub></sub><sup>u</sup>e<sub>d</sup><sub>i</sup>p<sub></sup>s
 
 ## 안녕하세요  
-## 반가워요  
+### 반가워요  
 <details>
 <summary>열기 / 닫기</summary>
 <div markdown="3">
